@@ -25,9 +25,13 @@ GitLabでも利用可能なFlowです。GitLabの場合は Pull Request を Merg
 * レビューOKになったら、masterへマージ
 * masterへpushしたら、即デプロイをする
 
-## 図解
+## 図解 ( astah* community 版)
 
 ![GitHub Flow](./github_flow.png)
+
+## 図解 ( Gviz 版)
+
+![GitHub Flow](./github_flow_gviz.png)
 
 ## 補足1
 
